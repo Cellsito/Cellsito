@@ -20,11 +20,7 @@
   <img align="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>  
 
-<div>
-  
-  <h2>
-  <a href=><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white></a>
-</div>
+
 
 <!--
 **Cellsito/Cellsito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
